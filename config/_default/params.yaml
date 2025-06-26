@@ -1,0 +1,40 @@
+######################## custom scripts & styles ####################
+
+# Add custom assets relative to /static or via https
+logo_on_white: "/img/favicon-144.png"
+logo_on_black: "/img/favicon-144.png"
+custom_js: []
+custom_css: ["/css/custom.css"]
+
+######################## custom config ####################
+
+### default social share image (can also be set per lang) ###
+images: ["/img/social-share.png"]
+
+github:
+  repo_url: "https://github.com/lidaof/support/blob/master"
+  show_edit_link: true
+
+social_links:
+  devstats: ""
+  discord: "https://discord.com/invite/2PHxAEJFf7"
+  facebook: "https://www.facebook.com/WashUEpiGenomeBrowser"
+  flickr: ""
+  github: "https://github.com/lidaof/support"
+  instagram: ""
+  landscape: ""
+  linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation"
+  mastodon: ""
+  pinterest: ""
+  rss: ""
+  slack: ""
+  stackoverflow: ""
+  threads: ""
+  twitter: ""
+  x: "https://x.com/wuepgg"
+  youtube: "https://www.youtube.com/channel/UCnGVWbxJv-DPDCAFDQ1oFQA"
+
+# Makes the header sticky on tall screens
+sticky_header: true
+# Enable search in header UI
+show_search: true
